@@ -6,4 +6,4 @@ commit --> push
 and
 
 remote -> local
-pull/update
+pull/update 00
